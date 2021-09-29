@@ -1,0 +1,4 @@
+﻿  Maze.cpp
+c:\users\israa\source\repos\mazerunner\mazerunner\maze.cpp(195): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\israa\source\repos\mazerunner\mazerunner\maze.cpp(196): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MazeRunner.vcxproj -> C:\Users\israa\source\repos\MazeRunner\Debug\MazeRunner.exe
